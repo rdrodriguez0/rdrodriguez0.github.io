@@ -5,5 +5,5 @@ This repository will hold assignments.
 # About Me
 ## My Interest
 ## Websites I Recommend
-      -[YouTube](https://www.youtube.com/) - Has everything from how-to, video clips from just about anything that may have aired on TV, to reviews of products, and a lot of just creative content.
+      -[YouTube](https://www.youtube.com/)
       -[CrunchyRoll](https://www.crunchyroll.com/) - Is an anime website where you can stream a ton of anime.
